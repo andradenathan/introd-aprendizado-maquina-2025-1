@@ -11,3 +11,6 @@ Nesta disciplina os seguintes tópicos foram abordados:
 redes neurais, SVM
 - Agrupamento: K-means, classificação hierárquico
 - Aprendizado por reforço: algoritmo Q-learning
+
+# Trabalho Final
+Repositório para o trabalho final: <a href="https://github.com/andradenathan/fraud-detection-model">Fraud Detection Model</a>.
